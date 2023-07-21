@@ -1,0 +1,20 @@
+{
+    "name": "News ",
+    "screen": {
+        "home": {
+            "emptyProducers": "No se encontraron productores registrados",
+            "registerNewProducer": "Registrar nuevo productor",
+            "syncProducers": "Estas a punto de sincronizar a los productores"
+        },
+        "discover": {
+            "emptyProducers": "No se encontraron productores registrados",
+            "registerNewProducer": "Registrar nuevo productor",
+            "syncProducers": "Estas a punto de sincronizar a los productores"
+        },
+        "article": {
+            "emptyProducers": "No se encontraron productores registrados",
+            "registerNewProducer": "Registrar nuevo productor",
+            "syncProducers": "Estas a punto de sincronizar a los productores"
+        }
+    }
+}
