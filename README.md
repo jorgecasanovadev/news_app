@@ -8,7 +8,7 @@ A few resources used in this News Flutter project:
 
 - [News API: API](https://newsapi.org/)
 - [Dart packages: Packages](https://pub.dev/)
-- [Packages used: Version used]
+- [Packages: Version used]
 - equatable: ^2.0.5 
 - fluttertoast: ^8.2.2 
 - bloc: ^8.1.2 
